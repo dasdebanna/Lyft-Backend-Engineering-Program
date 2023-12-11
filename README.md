@@ -1,6 +1,6 @@
-# Lyft Back-End Engineering VEP
+# Lyft Back-End Engineering
 
-> This repository contains the code for the Lyft Back-End Engineering VEP
+> This repository contains the code for the Lyft Back-End Engineering
 
 ### Concepts Covered
 
@@ -14,4 +14,4 @@
 
 ### UML Diagram
 
-![UML Diagram](./asset/uml.png)
+![UML Diagram](./UML.png)
